@@ -31,7 +31,7 @@ footer > p {
     width: 30%;
     margin:0;
     position: relative;
-    top: 25vh; left: 5vh;
+    top: 30vh; left: 5vh;
 }
 
 .col2 {
@@ -51,5 +51,5 @@ footer > p {
     width: 30%;
     margin:2em;
     position: relative;
-    top: -25vh; left: 130vh;
+    top: -30vh; left: 130vh;
 }
