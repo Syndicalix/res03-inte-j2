@@ -1,33 +1,55 @@
 body {
      margin:0;
-     padding:0;
  }
  
- nav > section > p {
+ nav > p {
     background-color:blue;
     color:blue;
-    height:5vh;
-    margin:0;
-}
-
-main > section > p {
-    background-color:green;
-    color:green;
-    height: 82vw;
-    margin:0;
-}
-
-footer > section > p {
-    background-color:red;
-    color:red;
     height:10vh;
     margin:0;
 }
 
-section > p {
+main {
+    background-color:green;
+    color:green;
+    height: 100%;
+    width: 100%;
+    margin:0;
+}
+
+footer > p {
+    background-color:red;
+    color:red;
+    height:15vh;
+    margin:0;
+}
+
+.col1 {
     background-color:yellow;
     color:yellow;
-    height: 20vh;
-    margin:1em;
-    
+    height: 25vh;
+    width: 30%;
+    margin:0;
+    position: relative;
+    top: 25vh; left: 5vh;
+}
+
+.col2 {
+    background-color:yellow;
+    color: yellow;
+    height: 25vh;
+    width: 30%;
+    margin:2em;
+    position: relative;
+    top: 0vh; left: 65vh;
+}
+
+.col3 {
+    background-color:yellow;
+    color: yellow;
+    height:25vh;
+    width: 30%;
+    margin:2em;
+    position: relative;
+    top: -25vh; left: 130vh;
 }
