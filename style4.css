@@ -11,6 +11,29 @@ h1 {
 .art2 {
     position:absolute;
     height:37vh;
-    width:59vw;
+    width:39vw;
     margin-left:60vw;
+    margin-top:-15vw;
+}
+
+.art3 {
+    position: absolute;
+    height:37vh;
+    width:33vw;
+    margin-right:60vw;
+    margin-top:0vw;
+}
+
+.art4 {
+    position: absolute;
+    height:37vh;
+    width:33vw;
+    margin-left:35vw;
+}
+
+.art5 {
+    position: absolute;
+    height: 37vh;
+    width:33vw;
+    margin-left:70vw;
 }
