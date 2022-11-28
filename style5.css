@@ -1,0 +1,30 @@
+html {
+    font-family: 'DM Sans', sans-serif;
+
+}
+
+.authors {
+    border-radius: 50%;
+    width:5%;
+    height:5%;
+}
+.author {
+    width: 10%;
+    height: 10%;
+}
+
+.Recents {
+    background-color:#f2f3e8!important;
+}
+
+.Featured {
+    background-color:#f2f3e8!important;
+}
+
+.topauthors {
+    background-color:#f2f3e8!important;
+}
+
+.posts {
+    background-color:white;
+}
