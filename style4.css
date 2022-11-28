@@ -1,0 +1,16 @@
+h1 {
+    text-align:center;
+}
+
+.art1 {
+    position:absolute;
+    height: 37vh;
+    width:59vw;
+    margin-right:40vw;
+}
+.art2 {
+    position:absolute;
+    height:37vh;
+    width:59vw;
+    margin-left:60vw;
+}
